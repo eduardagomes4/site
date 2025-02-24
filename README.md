@@ -1,3 +1,3 @@
 # site
 
-Oi! Essee é o meu novo repositório
+Oi! Esse é o meu novo repositório
